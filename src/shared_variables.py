@@ -19,7 +19,8 @@ def getInt_fromUnicode(unch):
 def activateSettings(logNumber, formulaType):
     if logNumber == 0:
         eventlog = "bpi_11.csv"
-        path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_bpi_11/model.h5'
+        #path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_bpi_11/model.h5'
+        path_to_model_file = '../../data'
         median = 31
         prefix_size_pred_from = median / 2 - 2
         prefix_size_pred_to = median / 2 + 2

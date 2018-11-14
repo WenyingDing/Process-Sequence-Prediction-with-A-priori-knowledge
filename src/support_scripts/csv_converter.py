@@ -22,7 +22,7 @@ dictionary = {}
 give_number = 0
 
 
-with open('%s' % eventlog_out, 'wb') as csvfile_out:
+with open('%s' % eventlog_out, 'w') as csvfile_out:
     writer = csv.writer(csvfile_out, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     writer.writerow(["CaseID","ActivityID","CompleteTimestamp"])
 

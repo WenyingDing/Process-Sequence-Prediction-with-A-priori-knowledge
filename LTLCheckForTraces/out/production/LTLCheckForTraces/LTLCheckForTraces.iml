@@ -60,6 +60,14 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" name="py4j0.10.4" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/py4j0.10.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

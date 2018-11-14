@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/.idea/PRAISE_bpm16_workshop.iml" filepath="D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/.idea/PRAISE_bpm16_workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Process-Sequence-Prediction-with-A-priori-knowledge.iml" filepath="$PROJECT_DIR$/.idea/Process-Sequence-Prediction-with-A-priori-knowledge.iml" />
+      <module fileurl="file://D:/Uni-Muenster/Master Thesis/codes/[21] Predicting process behaviour using deep learning/rnn_process_data_scripts_results/.idea/rnn_process_data_scripts_results.iml" filepath="D:/Uni-Muenster/Master Thesis/codes/[21] Predicting process behaviour using deep learning/rnn_process_data_scripts_results/.idea/rnn_process_data_scripts_results.iml" />
+    </modules>
+  </component>
+</project>
