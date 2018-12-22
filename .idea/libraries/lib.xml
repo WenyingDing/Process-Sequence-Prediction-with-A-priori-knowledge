@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/lib/py4j0.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/lib/DeclareMiner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/lib/OpenXES.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/lib/DeclareVisualizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/lib/ltl2aut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/lib/py4j0.10.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/lib/OpenXES-XStream.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
