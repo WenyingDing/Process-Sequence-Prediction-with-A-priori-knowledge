@@ -2,52 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="650a1dfb-281c-47bf-9f3d-e25a9ca44652" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/.idea/artifacts/TryToCompile_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/.idea/libraries/ltl2aut.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/.idea/libraries/py4j0_10_4.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Process-Sequence-Prediction-with-A-priori-knowledge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Process-Sequence-Prediction-with-A-priori-knowledge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/LTLCheckForTraces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/LTLCheckForTraces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/artifacts/TryToCompile_jar/TryToCompile.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/artifacts/TryToCompile_jar/TryToCompile_jar.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/artifacts/TryToCompile_jar/py4j0.10.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/artifacts/TryToCompile_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/libraries/ltl2aut.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/libraries/py4j0_10_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/LTLCheckForTraces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/LTLCheckForTraces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/.idea/artifacts/TryToCompile_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/.idea/libraries/ltl2aut.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/.idea/libraries/py4j0_10_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/BPI2011_20.xes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/StackEntryPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/TryToCompile.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/formula_verificator/FormulaVerificator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/formula_verificator/XLogReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/formula_verificator/form/Formula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/formula_verificator/form/SimpleFormula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/lib/DeclareMiner.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/lib/DeclareVisualizer.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/lib/OpenXES-XStream.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/lib/OpenXES.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/lib/ltl2aut.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/TryToCompile/lib/py4j0.10.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/formula_verificator/FormulaVerificator.class" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/formula_verificator/FormulaVerificator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/formula_verificator/XLogReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces/out/production/LTLCheckForTraces/formula_verificator/XLogReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/experiments_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/experiments_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inference_algorithms/_6_evaluate_beseline_SUFFIX_only.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/inference_algorithms/_6_evaluate_beseline_SUFFIX_only.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inference_algorithms/_9_cycl_SUFFIX_only.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/inference_algorithms/_9_cycl_SUFFIX_only.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/shared_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared_variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/support_scripts/csv_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/support_scripts/csv_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/support_scripts/bpi_14_detail_incident.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/support_scripts/prepare_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/support_scripts/prepare_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,62 +32,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readWords.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tfwords.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/tfwords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="e#107#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackEntryPoint.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+            <state relative-caret-position="1200">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="csv_converter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/support_scripts/csv_converter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shared_variables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shared_variables.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="experiments_runner.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/experiments_runner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="112">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#178#240#0" expanded="true" />
+                <element signature="e#305#370#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="295" selection-start-line="295" selection-end-line="295" />
+              <folding>
+                <element signature="e#330#377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inference_algorithms/_6_evaluate_beseline_SUFFIX_only.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <element signature="e#209#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shared_variables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/keras/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="132" column="26" selection-start-line="132" selection-start-column="18" selection-end-line="132" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/h5py/_hl/files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="172" column="29" lean-forward="true" selection-start-line="172" selection-start-column="29" selection-end-line="172" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -134,6 +142,18 @@
       <find>AttributeError: module 'tensorflow._api.v1.nn' has no attribute 'seq2seq'</find>
       <find>tu</find>
       <find>eval</find>
+      <find>distance</find>
+      <find>eventlog</find>
+      <find>epoch</find>
+      <find>t =</find>
+      <find>$PROJECT_DIR$/../../../../yeshch/PycharmProjects</find>
+      <find>filepath</find>
+      <find>path_to_model_file</find>
+      <find>activateSettings</find>
+      <find>maxlen</find>
+      <find>open</find>
+      <find>load</find>
+      <find>val_loss</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,18 +165,26 @@
         <option value="$PROJECT_DIR$/Self-learning Python.py" />
         <option value="D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py" />
         <option value="D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/tfwords.py" />
+        <option value="$PROJECT_DIR$/src/support_scripts/csv_converter.py" />
+        <option value="$PROJECT_DIR$/src/support_scripts/prepare_data.py" />
+        <option value="$PROJECT_DIR$/src/inference_algorithms/_6_evaluate_beseline_SUFFIX_only.py" />
+        <option value="$PROJECT_DIR$/src/inference_algorithms/_9_cycl_SUFFIX_only.py" />
+        <option value="$PROJECT_DIR$/src/experiments_runner.py" />
         <option value="$PROJECT_DIR$/src/shared_variables.py" />
+        <option value="$PROJECT_DIR$/src/train.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2764" />
-    <option name="y" value="226" />
-    <option name="width" value="981" />
-    <option name="height" value="1031" />
+    <option name="x" value="75" />
+    <option name="y" value="118" />
+    <option name="width" value="1833" />
+    <option name="height" value="675" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -164,35 +192,49 @@
         <subPane>
           <expand>
             <path>
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="LTLCheckForTraces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LTLCheckForTraces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Process-Sequence-Prediction-with-A-priori-knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="support_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="LTLCheckForTraces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LTLCheckForTraces" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="LTLCheckForTraces" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="LTLCheckForTraces" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="data" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545431264071" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="javac" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,34 +249,45 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.experiments_runner">
+    <configuration name="LTLCheckForTraces" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StackEntryPoint" />
+      <module name="LTLCheckForTraces" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LTLCheckForTraces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="csv_converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Process-Sequence-Prediction-with-A-priori-knowledge" />
+      <module name="Process-Sequence-Prediction-with-A-priori-knowledge1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/support_scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/support_scripts/csv_converter.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="experiments_runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Process-Sequence-Prediction-with-A-priori-knowledge" />
+      <module name="LTLCheckForTraces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/experiments_runner.py" />
@@ -242,24 +295,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="readWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PRAISE_bpm16_workshop" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="shared_variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Process-Sequence-Prediction-with-A-priori-knowledge" />
@@ -278,6 +316,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="tfwords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PRAISE_bpm16_workshop" />
@@ -296,21 +337,43 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LTLCheckForTraces" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.readWords" />
-      <item itemvalue="Python.tfwords" />
       <item itemvalue="Python.csv_converter" />
       <item itemvalue="Python.shared_variables" />
+      <item itemvalue="Python.tfwords" />
       <item itemvalue="Python.experiments_runner" />
+      <item itemvalue="Python.train" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.experiments_runner" />
-        <item itemvalue="Python.shared_variables" />
+        <item itemvalue="Python.train" />
         <item itemvalue="Python.csv_converter" />
-        <item itemvalue="Python.tfwords" />
-        <item itemvalue="Python.readWords" />
       </list>
     </recent_temporary>
   </component>
@@ -327,176 +390,54 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="902" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23809524" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" x="0" y="244" width="1281" height="193" id="Event Log" order="10" sideWeight="0.61904764" side_tool="true" weight="0.32879046" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.3809524" visible="true" weight="0.32879046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19756502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73159933" visible="true" weight="0.24450193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2504259" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4997233" weight="0.32988358" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49197567" weight="0.32858992" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.4980631" weight="0.32988358" />
+      <window_info anchor="bottom" x="0" y="244" width="1281" height="193" id="Event Log" order="10" sideWeight="0.26840067" side_tool="true" visible="true" weight="0.24450193" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49474266" weight="0.32858992" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="PythonConfigurationType" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/tfwords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2812">
-          <caret line="154" column="34" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="34" />
-          <folding>
-            <element signature="e#107#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/tfwords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="86" column="35" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="35" />
-          <folding>
-            <element signature="e#107#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="52" lean-forward="true" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/train.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/LTLCheckForTraces.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/train.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/LTLCheckForTraces.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shared_variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/bpi_14_detail_incident.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/LTLCheckForTraces.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/support_scripts/csv_converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shared_variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/bpi_14_detail_incident.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/LTLCheckForTraces.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/support_scripts/csv_converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/calculate_accuracy_on_next_event.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -511,68 +452,225 @@
     <entry file="file://$PROJECT_DIR$/data/bpi_14_detail_incident.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[21] Predicting process behaviour using deep learning/rnn_process_data_scripts_results.tar">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
+    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[21] Predicting process behaviour using deep learning/rnn_process_data_scripts_results.tar" />
     <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/BPI2011_20.xes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/train.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/LTLCheckForTraces.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py">
+    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/readWords.py" />
+    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/tfwords.py" />
+    <entry file="file://$PROJECT_DIR$/src/support_scripts/bpi_14_detail_incident.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/support_scripts/csv_converter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Uni-Muenster/Master Thesis/codes/[20] A Deep Learning Approach for Predicting Process Behaviour at Runtime 2017/PRAISE_bpm16_workshop/tfwords.py">
+    <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/formula_verificator/FormulaVerificator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/output_files/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/formula_verificator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/support_scripts/prepare_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
           <folding>
-            <element signature="e#107#130#0" expanded="true" />
+            <element signature="e#109#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LTLCheckForTraces/StackEntryPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        <state relative-caret-position="1200">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/support_scripts/bpi_14_detail_incident.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/support_scripts/csv_converter.py">
+    <entry file="file://$PROJECT_DIR$/src/inference_algorithms/_9_cycl_SUFFIX_only.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="60">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#121#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/h5py/_hl/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="172" column="29" lean-forward="true" selection-start-line="172" selection-start-column="29" selection-end-line="172" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/keras/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="132" column="26" selection-start-line="132" selection-start-column="18" selection-end-line="132" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shared_variables.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="435">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inference_algorithms/_6_evaluate_beseline_SUFFIX_only.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#209#240#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/experiments_runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="112">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#178#240#0" expanded="true" />
+            <element signature="e#305#370#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+          <folding>
+            <element signature="e#330#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10 (3)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LTLCheckForTraces</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

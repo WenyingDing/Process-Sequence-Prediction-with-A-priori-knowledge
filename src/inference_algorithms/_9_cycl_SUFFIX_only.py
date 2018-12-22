@@ -6,6 +6,11 @@ Author: Anton Yeshchenko
 
 from __future__ import division
 
+import os,sys,inspect
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0,parentdir)
+
 import re
 
 from keras.models import load_model
@@ -23,9 +28,12 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 from collections import Counter
 
-from src.formula_verificator import verify_formula_as_compliant
-from src.shared_variables import getUnicode_fromInt, activateSettings
-from src.support_scripts.prepare_data import repetitions, amplify, getSymbolAmpl, selectFormulaVerifiedTraces
+from formula_verificator import verify_formula_as_compliant
+from shared_variables import getUnicode_fromInt, activateSettings
+from support_scripts.prepare_data import repetitions, amplify, getSymbolAmpl, selectFormulaVerifiedTraces
+# from src.formula_verificator import verify_formula_as_compliant
+# from src.shared_variables import getUnicode_fromInt, activateSettings
+# from src.support_scripts.prepare_data import repetitions, amplify, getSymbolAmpl, selectFormulaVerifiedTraces
 
 def runExperiments(logIdentificator, formulaType):
     eventlog, path_to_model_file, beam_size, \

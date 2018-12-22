@@ -7,6 +7,11 @@ Author: Anton Yeshchenko
 
 from __future__ import division
 
+import os,sys,inspect
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0,parentdir)
+
 import copy
 import csv
 import re
@@ -17,8 +22,10 @@ from itertools import izip
 
 import numpy as np
 
-from src.formula_verificator import  verify_formula_as_compliant
-from src.shared_variables import getUnicode_fromInt
+from formula_verificator import  verify_formula_as_compliant
+from shared_variables import getUnicode_fromInt
+#from src.formula_verificator import  verify_formula_as_compliant
+#from src.shared_variables import getUnicode_fromInt
 
 
 def prepare_testing_data(eventlog):

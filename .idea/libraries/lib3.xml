@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/out/production/Process-Sequence-Prediction-with-A-priori-knowledge1/lib/OpenXES.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/out/production/Process-Sequence-Prediction-with-A-priori-knowledge1/lib/py4j0.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/out/production/Process-Sequence-Prediction-with-A-priori-knowledge1/lib/DeclareVisualizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/out/production/Process-Sequence-Prediction-with-A-priori-knowledge1/lib/py4j0.10.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/out/production/Process-Sequence-Prediction-with-A-priori-knowledge1/lib/DeclareMiner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/out/production/Process-Sequence-Prediction-with-A-priori-knowledge1/lib/OpenXES-XStream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTLCheckForTraces/out/production/Process-Sequence-Prediction-with-A-priori-knowledge1/lib/ltl2aut.jar!/" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

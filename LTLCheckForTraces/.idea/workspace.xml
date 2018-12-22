@@ -2,48 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced90c6c-a25e-44a9-b81c-942f361d682a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TryToCompile_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/ltl2aut.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/py4j0_10_4.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/lib1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Process-Sequence-Prediction-with-A-priori-knowledge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Process-Sequence-Prediction-with-A-priori-knowledge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LTLCheckForTraces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LTLCheckForTraces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TryToCompile_jar/TryToCompile.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TryToCompile_jar/TryToCompile_jar.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/TryToCompile_jar/py4j0.10.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/artifacts/TryToCompile_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/libraries/ltl2aut.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/libraries/py4j0_10_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LTLCheckForTraces/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/LTLCheckForTraces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LTLCheckForTraces/LTLCheckForTraces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/.idea/artifacts/TryToCompile_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/.idea/libraries/ltl2aut.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/.idea/libraries/py4j0_10_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/BPI2011_20.xes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/StackEntryPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/TryToCompile.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/formula_verificator/FormulaVerificator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/formula_verificator/XLogReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/formula_verificator/form/Formula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/formula_verificator/form/SimpleFormula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/lib/DeclareMiner.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/lib/DeclareVisualizer.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/lib/OpenXES-XStream.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/lib/OpenXES.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/lib/ltl2aut.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryToCompile/lib/py4j0.10.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/formula_verificator/FormulaVerificator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LTLCheckForTraces/formula_verificator/FormulaVerificator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LTLCheckForTraces/formula_verificator/XLogReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LTLCheckForTraces/formula_verificator/XLogReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/experiments_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/experiments_runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/support_scripts/csv_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/support_scripts/csv_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/inference_algorithms/_6_evaluate_beseline_SUFFIX_only.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/inference_algorithms/_6_evaluate_beseline_SUFFIX_only.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/shared_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/shared_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/support_scripts/bpi_14_detail_incident.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/support_scripts/prepare_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/support_scripts/prepare_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src/train.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,35 +30,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1391005714">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.types.open" />
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StackEntryPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+            <state relative-caret-position="377">
+              <caret line="102" column="1" lean-forward="true" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="980" />
@@ -130,19 +86,6 @@
               <item name="LTLCheckForTraces" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LTLCheckForTraces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LTLCheckForTraces" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LTLCheckForTraces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LTLCheckForTraces" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="LTLCheckForTraces" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -151,9 +94,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542214005619" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/py4j0.10.4.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545436074374" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -192,45 +135,43 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="67" y="25" width="1853" height="902" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2556724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" weight="0.32858992" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4997233" weight="0.32988358" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013835" side_tool="true" visible="true" weight="0.32858992" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/StackEntryPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+        <state relative-caret-position="377">
+          <caret line="102" column="1" lean-forward="true" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -266,6 +207,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -277,7 +219,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/TryToCompile/lib/DeclareMiner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/TryToCompile/lib/ltl2aut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/TryToCompile/lib/OpenXES-XStream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/TryToCompile/lib/DeclareVisualizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/TryToCompile/lib/py4j0.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/TryToCompile/lib/OpenXES.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

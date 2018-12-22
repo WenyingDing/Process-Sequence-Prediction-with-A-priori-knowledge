@@ -138,6 +138,7 @@ def train():
     next_chars = []
     lines = map(lambda x: x+'!',lines) #put delimiter symbol
     maxlen = max(map(lambda x: len(x),lines)) #find maximum line size
+    print(maxlen)
 
     # next lines here to get all possible characters for events and annotate them with numbers
     chars = map(lambda x: set(x),lines)
@@ -303,15 +304,15 @@ def train():
         sentence_t3 = sentences_t3[i]
         sentence_t4 = sentences_t4[i]
         for t, char in enumerate(sentence):
-            multiset_abstraction = Counter(sentence[:t+1])
-            for c in chars:
-                if c==char: #this will encode present events to the right places
-                    X[i, t+leftpad, char_indices[c]] = 1
-            X[i, t+leftpad, len(chars)] = t+1
-            X[i, t+leftpad, len(chars)+1] = sentence_t[t]/divisor
-            X[i, t+leftpad, len(chars)+2] = sentence_t2[t]/divisor2
-            X[i, t+leftpad, len(chars)+3] = sentence_t3[t]/86400
-            X[i, t+leftpad, len(chars)+4] = sentence_t4[t]/7
+             multiset_abstraction = Counter(sentence[:t+1])
+             for c in chars:
+                 if c==char: #this will encode present events to the right places
+                     X[i, t+leftpad, char_indices[c]] = 1
+             X[i, t+leftpad, len(chars)] = t+1
+             X[i, t+leftpad, len(chars)+1] = sentence_t[t]/divisor
+             X[i, t+leftpad, len(chars)+2] = sentence_t2[t]/divisor2
+             X[i, t+leftpad, len(chars)+3] = sentence_t3[t]/86400
+             X[i, t+leftpad, len(chars)+4] = sentence_t4[t]/7
         for c in target_chars:
             if c==next_chars[i]:
                 y_a[i, target_char_indices[c]] = 1-softness
@@ -349,6 +350,7 @@ def train():
     model.compile(loss={'act_output':'categorical_crossentropy', 'time_output':'mae'}, optimizer=opt)
     early_stopping = EarlyStopping(monitor='val_loss', patience=42)
     path_to_model = 'output_files/models_' + eventlog[:-4] + '/model_{epoch:02d}-{val_loss:.2f}.h5'
+    print(path_to_model)
     model_checkpoint = ModelCheckpoint(path_to_model, monitor='val_loss', verbose=0, save_best_only=True, save_weights_only=False, mode='auto')
     lr_reducer = ReduceLROnPlateau(monitor='val_loss', factor=0.5, patience=10, verbose=0, mode='auto', epsilon=0.0001, cooldown=0, min_lr=0)
 

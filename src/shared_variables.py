@@ -19,8 +19,7 @@ def getInt_fromUnicode(unch):
 def activateSettings(logNumber, formulaType):
     if logNumber == 0:
         eventlog = "bpi_11.csv"
-        #path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_bpi_11/model.h5'
-        path_to_model_file = '../../data'
+        path_to_model_file = '/home/wenying/Documents/Github/Process-Sequence-Prediction-with-A-priori-knowledge/src/output_files/models_bpi_11/model.h5'
         median = 31
         prefix_size_pred_from = median / 2 - 2
         prefix_size_pred_to = median / 2 + 2
@@ -36,7 +35,7 @@ def activateSettings(logNumber, formulaType):
     #     median = 4
     elif logNumber == 2:
         eventlog = "bpi_12_w.csv"
-        path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_bpi_12_w/model_23-1.67.h5'
+        path_to_model_file = '/home/wenying/Documents/Github/Process-Sequence-Prediction-with-A-priori-knowledge/src/output_files/models_bpi_12_w/model_23-1.67.h5'
         median = 6
         prefix_size_pred_from = 2
         prefix_size_pred_to = 6
@@ -47,7 +46,7 @@ def activateSettings(logNumber, formulaType):
 
     elif logNumber == 3:
         eventlog = "bpi_13_incidents.csv"
-        path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_bpi_13_incidents/model.h5'
+        path_to_model_file = '/home/wenying/Documents/Github/Process-Sequence-Prediction-with-A-priori-knowledge/src/output_files/models_bpi_13_incidents/model.h5'
         median = 6
         if formulaType == "STRONG":
             formula= " []( ( \"3\" -> <>( \"5\" ) ) ) /\ <>\"3\" /\ []( ( \"1\" -> <>( \"3\" ) ) )  /\ <>\"1\" "# /\
@@ -58,7 +57,7 @@ def activateSettings(logNumber, formulaType):
 
     elif logNumber == 4:
         eventlog = "bpi_17.csv"
-        path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_bpi_17/model.h5'
+        path_to_model_file = '/home/wenying/Documents/Github/Process-Sequence-Prediction-with-A-priori-knowledge/src/output_files/models_bpi_17/model.h5'
         median = 17
         if formulaType == "STRONG":
             formula= "[]( ( \"5\" -> <>( \"6\" ) ) )  /\ <>\"5\" "
@@ -69,7 +68,7 @@ def activateSettings(logNumber, formulaType):
 
     elif logNumber == 5:
         eventlog = "env_permit.csv"
-        path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_env_permit/model.h5'
+        path_to_model_file = '/home/wenying/Documents/Github/Process-Sequence-Prediction-with-A-priori-knowledge/src/output_files/models_env_permit/model.h5'
         median = 43
         prefix_size_pred_from = median / 2 - 2
         prefix_size_pred_to = median / 2 + 2
@@ -80,7 +79,7 @@ def activateSettings(logNumber, formulaType):
 
     elif logNumber == 6:
         eventlog = "helpdesk.csv"
-        path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_helpdesk/model.h5'
+        path_to_model_file = '/home/wenying/Documents/Github/Process-Sequence-Prediction-with-A-priori-knowledge/src/output_files/models_helpdesk/model.h5'
         median = 4
         if formulaType == "STRONG":
             formula= " []( ( \"8\" -> <>( \"6\" ) ) ) /\ <>\"8\"" #"[]( ( \"1\" -> <>( \"8\" ) ) )  /\ <>\"1\" "# /\
@@ -95,8 +94,8 @@ def activateSettings(logNumber, formulaType):
            prefix_size_pred_from, prefix_size_pred_to, formula
 
 
-# eventlog = "bpi_14_detail_incident.csv"
-# path_to_model_file = '/home/yeshch/PycharmProjects/ProcessSequencePrediction/src/output_files/models_bpi_17/model.h5'
+eventlog = "bpi_14_detail_incident.csv"
+# path_to_model_file = '/home/wenying/Documents/Github/Process-Sequence-Prediction-with-A-priori-knowledge/src/output_files/models_bpi_17/model.h5'
 
 
 
